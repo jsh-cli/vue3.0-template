@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "autor":"<%=author%>",
+  "author":"<%=author%>",
   "description": "<%=description%>",
   "dependencies": {
     "vue": "^3.0.0-rc.1"
